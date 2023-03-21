@@ -9,7 +9,7 @@ $ node -version or npm -version
 
 ## Environment 
 - React Version: 18.2.0
-- Framework: Vite 4.2.0
+- Framework Vite: 4.2.0
 - Default Port: 3000
 
 ## Step 1: clone the repository
